@@ -1,3 +1,6 @@
-# p5
+# p5js and nwb boilerplate project
 
-Describe p5 here.
+```bash
+$ yarn
+$ yarn run start
+```
